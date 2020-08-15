@@ -15,3 +15,6 @@ Taking about the users age, there were two graphs that were made with this varia
 In the case of the user type. It can be said that people that 
 
 
+The maps that were generated show something that worth saying. As seen in the Figures, most of the trips are made inside the city(Jersey City) and just a few are made from the city to other suburbs like Manhattan.
+
+
