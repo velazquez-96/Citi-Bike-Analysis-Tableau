@@ -2,6 +2,9 @@
 
 
 
+Taking about user types. Figure # demonstrates that annual members grew along the year, while short term purchases were seasonal. That is, as summer ends, the amount of 3-day and 24 hours passes decrease. The latter situation suggest that the weather conditions, specially the colder ones affect this type of purchases.
+
+
 Peak hours is also another point that must be discussed. Figure # demonstrates the presence of two peak hours regardless of the station. The first one is at 8am and the second one is at 6pm. This hours fit with the working hours, that is, the time of entry and exit.
 
 Figure # shows that the majority of City Bike users are males(72%). It should be mentioned that around 6% of the people did not identify themselves as male or females, modifying the final result. Despite the latter, this 6% did not change the fact that males users are more active.
