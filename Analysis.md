@@ -22,9 +22,18 @@ New York Citi Bike sharing program is the largest bike sharing program in the Un
 
 4. Taking about the users age, there were two graphs that were made with this variable. The first one is about trip duration. Figure 4 shows that people between 16 and 19 years old, and some people from around their 70s tend to spend more time riding. On the other hand, trip duration from people between 20 and 60 years old is considerably low. The above suggests that certain age groups use bicycles as a form of transportation and other groups use it as a recreational activity.
 
-5. In the case of the user type. It can be said that people that 
+![tripduration_age.png](Images/tripduration_age.png)
+
+5. In the case of the user type. It can be said that a significant number of annual members are people from their late 20s and early 30's. Also, the number of 3-day and 24-hour purchases remain constant through all ages, except from 49 year old persons.
+
+![usertype_age.png](Images/usertype_age.png)
+
+6. The maps that were generated show something that worth saying. As seen in the Figure 6 most of the trips are made inside the city(Jersey City) and just a few are made from the city to other locations such as Manhattan. This situation might be due to preference of people to live here.
+
+![Maps_stations.png](Images/Maps_stations.png)
 
 
-The maps that were generated show something that worth saying. As seen in the Figures, most of the trips are made inside the city(Jersey City) and just a few are made from the city to other suburbs like Manhattan.
+
+
 
 
