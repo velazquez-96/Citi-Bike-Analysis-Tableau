@@ -16,5 +16,5 @@ The purpose of this project is to uncover trends from the New York Citi Bike sha
 
 ## Outcomes
 
-Feel free to read the most important foundings from the Citi Bike sharing program checking [the report written](Analysis.md).
+Feel free to read the most important findings from the Citi Bike sharing program checking [the report written](Analysis.md).
 Also, if you want to visualize the whole project in Tableau, you can click [here](https://public.tableau.com/profile/ivan.michel.velazquez#!/vizhome/CityNYCAnalysis/Historia1?publish=yes).
